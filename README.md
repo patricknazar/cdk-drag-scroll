@@ -1,5 +1,7 @@
 # Cdk Drag Scroll
 
+This is a fork of [volser/cdk-drag-scroll](https://github.com/volser/cdk-drag-scroll)
+
 ## Demo
 
 https://cdk-drag-scroll-demo.stackblitz.io/
@@ -9,7 +11,7 @@ https://cdk-drag-scroll-demo.stackblitz.io/
 Install through npm:
 
 ```
-npm install --save cdk-drag-scroll
+npm install --save @patricknazar/cdk-drag-scroll
 
 ```
 
